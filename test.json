@@ -1,0 +1,16 @@
+[
+	[
+		1,
+		"abc",
+		[ 3.14 ],
+		{ "POP": { "jest": { "najlepsze": 1 } } }
+	],
+	5,
+	{
+		"a": "b",
+		"c": "d"
+	},
+	"Ala ma kota",
+	"Kot ma ale?",
+	"\\\"b\ta\\"
+]
